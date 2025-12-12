@@ -1,0 +1,9 @@
+opencv-python
+ultralytics
+mediapipe
+google-generativeai
+pytesseract
+fastapi
+uvicorn
+numpy
+Pillow
